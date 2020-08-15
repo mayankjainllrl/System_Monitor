@@ -1,7 +1,7 @@
 Credential: This repository is developed by Mayank Jain.
 Contact: mayankjainllrl@gmail.com
 
-This app monitors how much % of CPU and memory of our PC is used by our container.
+This app can be used to keep a track of percentage of CPU and Memory of our system is used by our docker container. 
 
 Steps:
 
